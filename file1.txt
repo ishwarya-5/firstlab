@@ -1,6 +1,6 @@
 hi 
 welcome
-user : Ishwarya
-region : south 
+user : charan
+region : north
 country : India
 State : andhra pradesh
